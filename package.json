@@ -1,0 +1,14 @@
+{
+  "name": "cash-runway-calculator",
+  "version": "1.0.0",
+  "description": "A calculator for estimating cash runway for a startup",
+  "main": "cashrun.html",
+  "keywords": [
+    "cash",
+    "runway",
+    "calculator",
+    "startup"
+  ],
+  "author": "Patrick",
+  "license": "MIT"
+}
