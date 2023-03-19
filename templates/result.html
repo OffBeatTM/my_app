@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cash Runway Calculator Result</title>
+</head>
+<body>
+    <h1>Cash Runway Calculator Result</h1>
+    <div id="result">
+        {% if output %}
+            <h2>Output:</h2>
+            <p>{{ output }}</p>
+        {% elif error %}
+            <h2>Error:</h2>
+            <p>{{ error }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
